@@ -1,0 +1,44 @@
+.profile-image {
+  height: 200px;
+  width: 200px;
+  border-radius: 4%;
+  box-shadow: 0px -2px 10px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 24px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sidebar-mini{
+    text-transform: uppercase;
+    width: 30px;
+    margin-right: 15px;
+    text-align: center;
+    letter-spacing: 1px;
+    position: relative;
+    float: left;
+    display: initial;
+}
+
+.avatar-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.el-button--text {
+  color: #adb5bd
+}
+
+.el-button--text:hover {
+  color: #adb5bd
+}
+
+.nav-item.btn-sm {
+    padding: 0;
+}
+
+.navbar-vertical .navbar-brand-img, .navbar-vertical .navbar-brand > img {
+  max-width: 100%;
+  max-height: 3rem;
+}

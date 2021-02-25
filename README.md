@@ -833,8 +833,8 @@ We use GitHub Issues as the official bug tracker for the Nuxt Argon Dashboard La
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=nadl-readme)
-- [Creative Tim License](https://www.creative-tim.com/license).
+- Copyright Creative Tim (https://www.creative-tim.com/?ref=nadl-readme)
+- Licensed under MIT (https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/blob/master/LICENSE.md)
 
 ## Useful Links
 

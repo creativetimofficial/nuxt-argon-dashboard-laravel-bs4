@@ -80,6 +80,13 @@ export default {
   },
   methods: {
     async handleSubmit() {
+      if (this.$isDemo == 1) {
+        await this.$notify({
+          type: "danger",
+          message: "Password reset is disabled in the demo.",
+        });
+        return;
+      }
       try {
         await this.$store.dispatch("reset/forgotPassword", this.form.data);
         await this.$notify({

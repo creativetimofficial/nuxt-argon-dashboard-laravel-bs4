@@ -55,7 +55,7 @@ export default {
 
   methods: {
     async handleProfileUpdate() {
-      if (["1", "2", "3"].includes(this.user.id)) {
+      if (["1"].includes(this.user.id)) {
         await this.$notify({
           type: "danger",
           message: "You are not allowed not change data of default users.",

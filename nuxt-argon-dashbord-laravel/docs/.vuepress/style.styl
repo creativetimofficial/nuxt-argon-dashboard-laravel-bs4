@@ -1,0 +1,50 @@
+.navbar,
+.nav-link,
+.nav-item {
+  color: inherit;
+  background inherit;
+}
+
+
+.blockquote {
+  border: none;
+}
+
+.content:not(.custom) > h1, .content:not(.custom) > h2, .content:not(.custom) > h3, .content:not(.custom) > h4, .content:not(.custom) > h5, .content:not(.custom) > h6 {
+  margin-top: 0;
+  padding-top: 2rem;
+  margin-bottom: 0;
+  border: none;
+  padding-left: 0;
+}
+
+.theme-container {
+  .nav-item > a:not(.external):hover, .nav-item > a:not(.external).router-link-active {
+    text-decoration none;
+    &:hover {
+      text-decoration none;
+      border-bottom none;
+      margin-bottom: 0;
+    }
+  }
+}
+
+table:not(.table)
+  border-collapse initial
+  margin initial
+  display: initial
+  overflow-x: initial
+
+tr
+  border-top initial
+
+th, td
+  border initial
+  padding initial
+
+table.table
+  tr
+    border-top: 1px solid #e9ecef;
+
+  th, td
+    border: 1px solid #e9ecef;

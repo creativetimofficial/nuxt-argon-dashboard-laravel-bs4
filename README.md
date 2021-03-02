@@ -64,7 +64,7 @@ Install NPM: https://www.npmjs.com/get-npm
 1. Navigate to your Nuxt Argon Dashboard project folder: `cd your-nuxt-argon-dashbord-project`
 2. Install project dependencies: `npm install`
 3. Create a new .env file: `cp .env.example .env`
-4. `APP_BASE_URL` should contain the URL of your Nuxt Argon Dashboard Project (eg. http://localhost:8080/)
+4. `BASE_URL` should contain the URL of your Nuxt Argon Dashboard Project (eg. http://localhost:8080/)
 5. `API_BASE_URL` should contain the URL of your Laravel JSON:API Project. (eg. http://localhost:3000/api/v1)
 6. Run `npm run dev` to start the application in a local development environment or `npm run build` to build release distributables.
 

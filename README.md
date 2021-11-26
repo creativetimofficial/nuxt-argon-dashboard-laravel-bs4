@@ -60,7 +60,7 @@ Install NPM: https://www.npmjs.com/get-npm
 8. Add your own mailtrap.io credentials in MAIL_USERNAME and MAIL_PASSWORD in the .env file
 
 ## Nuxt Argon Dashboard Project Installation
-
+Note: As many packages are deprecated on Node.js v16.x or higher make sure you are using Node.js 14.x(recommended) before strarting this installation.
 1. Navigate to your Nuxt Argon Dashboard project folder: `cd your-nuxt-argon-dashbord-project`
 2. Install project dependencies: `npm install`
 3. Create a new .env file: `cp .env.example .env`

@@ -7,6 +7,9 @@ project.
 
 #### Steps to install
 
+<b>Note:</b>
+As many packages are deprecated on Node.js v16.x or higher make sure you are using Node.js 14.x(recommended) before strarting this installation.
+
 1. Navigate to your Nuxt Argon Dashboard project folder: `cd your-nuxt-argon-dashbord-project`
 2. Install project dependencies: `npm install`
 3. Create a new .env file: `cp .env.example .env`
@@ -117,7 +120,7 @@ Stay up to date on the development journey and connect with us on:
   <li>Follow Creative Tim on
     <a href="https://twitter.com/creativetim">Twitter</a>.</li>
   <li>Read and subscribe to The Official
-    <a href="http://blog.creative-tim.com">Creative Tim Blog</a>.</li>
+    <a href="https://blog.creative-tim.com">Creative Tim Blog</a>.</li>
   <li>Follow Creative Tim on
     <a href="https://www.instagram.com/creativetimofficial">Instagram</a>.</li>
   <li>Follow Creative Tim on

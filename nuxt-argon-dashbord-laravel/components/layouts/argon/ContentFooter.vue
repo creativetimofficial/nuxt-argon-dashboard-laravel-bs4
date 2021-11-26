@@ -32,7 +32,7 @@
           </li>
           <li class="nav-item">
             <a
-              href="http://blog.creative-tim.com"
+              href="https://blog.creative-tim.com"
               class="nav-link"
               target="_blank"
               rel="noopener"

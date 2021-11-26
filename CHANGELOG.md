@@ -9,3 +9,6 @@ All notable changes to `Nuxt Argon Dashboard Laravel`  will be documented in thi
 - Login
 - Register
 - Profile edit
+
+## Version 1.0.1
+Compatibility with node.js v14.x LTS

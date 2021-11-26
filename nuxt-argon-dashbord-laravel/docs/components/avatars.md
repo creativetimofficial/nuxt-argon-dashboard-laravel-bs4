@@ -12,10 +12,10 @@ Use the `.rounded-circle` modifier class to create a circle avatar.
 ```html
 <div>
 <a href="#!" class="avatar">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 <a href="#!" class="avatar rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 </div>
 ```
@@ -29,19 +29,19 @@ The most basic list group is an unordered list with list items and the proper cl
 ```html
 <div>
 <a href="#!" class="avatar avatar-xs rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 <a href="#!" class="avatar avatar-sm rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 <a href="#!" class="avatar rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 <a href="#!" class="avatar avatar-lg rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 <a href="#!" class="avatar avatar-xl rounded-circle">
-    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+    <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
 </a>
 </div>
 ```
@@ -55,16 +55,16 @@ Include multiple avatar items inside an `.avatar-group` container.
 ```html
 <div class="avatar-group">
     <a href="#!" class="avatar rounded-circle">
-        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-1.jpg">
+        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-1.jpg">
     </a>
     <a href="#!" class="avatar rounded-circle">
-        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-2.jpg">
+        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-2.jpg">
     </a>
     <a href="#!" class="avatar rounded-circle">
-        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-3.jpg">
+        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-3.jpg">
     </a>
     <a href="#!" class="avatar rounded-circle">
-        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro//img/theme/team-4.jpg">
+        <img alt="Image placeholder" src="https://demos.creative-tim.com/vue-argon-dashboard-pro/img/theme/team-4.jpg">
     </a>
 </div>
 ```

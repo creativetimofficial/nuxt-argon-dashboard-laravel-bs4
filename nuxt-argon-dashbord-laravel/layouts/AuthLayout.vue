@@ -104,7 +104,7 @@
           </li>
           <li class="nav-item d-none d-lg-block ml-lg-4">
             <a
-              href="https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel"
+              href="https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel-bs4"
               target="_blank"
               class="btn btn-neutral btn-icon"
               rel="noopener"

@@ -1,10 +1,10 @@
-# [Nuxt Argon Dashboard Laravel](https://nuxt-argon-dashboard-laravel.creative-tim.com/?ref=nadl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Nuxt%20Argon%20Dashboard%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//nuxt-argon-dashboard-laravel.creative-tim.com/%20%23%nuxt%20%23%argon%20%23design%20%23dashboard%20%23laravel%20via%20%40CreativeTim)
+# [Nuxt Argon Dashboard Laravel BS4](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/?ref=nadl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Nuxt%20Argon%20Dashboard%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//nuxt-argon-dashboard-laravel-bs4.creative-tim.com/%20%23%nuxt%20%23%argon%20%23design%20%23dashboard%20%23laravel%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nuxt-argon-dashboard-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nuxt-argon-dashboard-laravel/nuxt-argon-dashboard-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nuxt-argon-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/nuxt-argon-dashboard-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/issues?q=is%3Aissue+is%3Aclosed)
 
 _Frontend version_: Argon Dashboard v1.2.0. More info at https://www.creative-tim.com/product/argon-dashboard
 
-![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/731/original/opt_ad_nuxt_laravel_thumbnail.jpg)
 
 What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Nuxt Argon Dashboard Laravel.
 
@@ -30,7 +30,7 @@ JSON:API is a specification for how a client should request that resources be fe
 ### JSON:API backend
 The Laravel JSON:API backend project requires a proper multi-threaded web server such as Apache/Nginx environment with PHP, Composer and MySQL.
 
-**Do not use `php artisan serve` as it will result in stalled requests due to the single-threaded nature of the built-in PHP web server.** 
+**Do not use `php artisan serve` as it will result in stalled requests due to the single-threaded nature of the built-in PHP web server.**
 
 We strongly recommend using [Laradock](https://laradock.io/) for Linux and Mac or [Laragon](https://laragon.org/download/) for Windows if possible.
 
@@ -511,23 +511,23 @@ export default {
 
 | HTML                                                                                                                                                                                | Laravel                                                                                                                                                                                                 | Nuxt & Laravel                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard?ref=nadl-readme) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/thumb/opt_ad_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=nadl-readme) | [![Nuxt Argon Dashboard Larave](https://s3.amazonaws.com/creativetim_bucket/products/350/thumb/opt_ad_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel?ref=nadl-readme) |
+| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard?ref=nadl-readme) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/thumb/opt_ad_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=nadl-readme) | [![Nuxt Argon Dashboard Larave](https://s3.amazonaws.com/creativetim_bucket/products/731/thumb/opt_ad_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel-bs4?ref=nadl-readme) |
 
 ## Demo
 
 | Register                                                                                                                                                                                                            | Login                                                                                                                                                                                                      | Dashboard                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Register](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/register.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/register?ref=nadl-readme) | [![Login](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/login.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/login?ref=nadl-readme) | [![Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/dashboard.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/?ref=nadl-readme) |
+| [![Register](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/register.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/register?ref=nadl-readme) | [![Login](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/login.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/login?ref=nadl-readme) | [![Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/dashboard.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/?ref=nadl-readme) |
 
 | Profile Page                                                                                                                                                                                                                        | Users Page                                                                                                                                                                                                                         | Tables Page                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/profile.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/examples/user-profile?ref=nadl-readme) | [![Users Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/users.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/examples/user-management?ref=nadl-readme) | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/table.PNG)](https://nuxt-argon-dashboard-laravel.creative-tim.com/tables/regular?ref=nadl-readme) |
+| [![Profile Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/profile.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/examples/user-profile?ref=nadl-readme) | [![Users Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/users.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/examples/user-management?ref=nadl-readme) | [![Tables Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-laravel/table.PNG)](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/tables/regular?ref=nadl-readme) |
 
-[View More](https://nuxt-argon-dashboard-laravel.creative-tim.com/?ref=nadl-readme)
+[View More](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/?ref=nadl-readme)
 
 ## Documentation
 
-The documentation for the Nuxt Argon Dashboard Laravel is hosted at our [website](https://nuxt-argon-dashboard-laravel.creative-tim.com/documentation?ref=nadl-readme).
+The documentation for the Nuxt Argon Dashboard Laravel is hosted at our [website](https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/documentation?ref=nadl-readme).
 
 ## File Structure
 
@@ -808,17 +808,17 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- Demo: <https://nuxt-argon-dashboard-laravel.creative-tim.com/?ref=nadl-readme>
-- Download Page: <https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel?ref=nadl-readme>
-- Documentation: <https://nuxt-argon-dashboard-laravel.creative-tim.com/documentation?ref=nadl-readme>
+- Demo: <https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/?ref=nadl-readme>
+- Download Page: <https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel-bs4?ref=nadl-readme>
+- Documentation: <https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/documentation?ref=nadl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/issues)
 - **Dashboards:**
 
 | HTML                                                                                                                                                                                | Laravel                                                                                                                                                                                                 | Nuxt & Laravel                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard?ref=nadl-readme) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/thumb/opt_ad_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=nadl-readme) | [![Nuxt Argon Dashboard Larave](https://s3.amazonaws.com/creativetim_bucket/products/350/thumb/opt_ad_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel?ref=nadl-readme) |
+| [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/thumb/argon-dashboard-2.jpg)](https://www.creative-tim.com/product/argon-dashboard?ref=nadl-readme) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/thumb/opt_ad_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=nadl-readme) | [![Nuxt Argon Dashboard Larave](https://s3.amazonaws.com/creativetim_bucket/products/731/thumb/opt_ad_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel-bs4?ref=nadl-readme) |
 
 ## Change log
 
@@ -840,7 +840,7 @@ We use GitHub Issues as the official bug tracker for the Nuxt Argon Dashboard La
 ## Licensing
 
 - Copyright Creative Tim (https://www.creative-tim.com/?ref=nadl-readme)
-- Licensed under MIT (https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/blob/master/LICENSE.md)
+- Licensed under MIT (https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/blob/master/LICENSE.md)
 
 ## Useful Links
 

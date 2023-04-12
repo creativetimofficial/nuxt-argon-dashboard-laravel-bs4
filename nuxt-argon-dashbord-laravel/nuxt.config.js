@@ -71,7 +71,7 @@ module.exports = {
       {
         itemprop: "image",
         content:
-          "https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg"
+          "https://s3.amazonaws.com/creativetim_bucket/products/731/original/opt_ad_nuxt_laravel_thumbnail.jpg"
       },
       {
         name: "twitter:card",
@@ -97,7 +97,7 @@ module.exports = {
       {
         name: "twitter:image",
         content:
-          "https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg"
+          "https://s3.amazonaws.com/creativetim_bucket/products/731/original/opt_ad_nuxt_laravel_thumbnail.jpg"
       },
       {
         property: "fb:app_id",
@@ -114,12 +114,12 @@ module.exports = {
       {
         property: "og:url",
         content:
-          "https://www.creative-tim.com/live/nuxt-argon-dashboard-laravel"
+          "https://www.creative-tim.com/live/nuxt-argon-dashboard-laravel-bs4"
       },
       {
         property: "og:image",
         content:
-          "https://s3.amazonaws.com/creativetim_bucket/products/350/original/opt_ad_nuxt_laravel_thumbnail.jpg"
+          "https://s3.amazonaws.com/creativetim_bucket/products/731/original/opt_ad_nuxt_laravel_thumbnail.jpg"
       },
       {
         property: "og:description",

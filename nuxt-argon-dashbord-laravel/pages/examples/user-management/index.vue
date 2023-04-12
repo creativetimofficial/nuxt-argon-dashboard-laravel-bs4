@@ -5,7 +5,7 @@
         >Add, Edit, Delete features are not functional. This is a PRO feature!
         Click
         <a
-          href="https://www.creative-tim.com/live/nuxt-argon-dashboard-pro-laravel"
+          href="https://www.creative-tim.com/live/nuxt-argon-dashboard-pro-laravel-bs4"
           target="_blank"
           id="pro-feature"
           >here</a

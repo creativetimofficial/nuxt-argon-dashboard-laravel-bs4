@@ -10,7 +10,7 @@
       <li class="nav-item">
         <a
           class="nav-link"
-          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel"
+          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel-bs4"
           target="_blank"
           >Upgrade to PRO</a
         >
@@ -26,7 +26,7 @@
       <li class="nav-item">
         <a
           class="nav-link"
-          href="https://nuxt-argon-dashboard-laravel.creative-tim.com"
+          href="https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com"
           target="_blank"
           >Live Preview</a
         >
@@ -34,7 +34,7 @@
       <li class="nav-item">
         <a
           class="nav-link"
-          href="https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel/issues"
+          href="https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4/issues"
           target="_blank"
           >Support</a
         >

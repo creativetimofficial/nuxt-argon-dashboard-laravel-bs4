@@ -12,7 +12,7 @@
                 <p class="text-white mt-4">Argon perfectly combines reusable HTML and modular CSS with a modern styling and beautiful markup throughout each HTML template in the pack.</p>
                 <div class="mt-5">
                   <nuxt-link to="/dashboard" class="btn btn-neutral my-2">Explore Dashboard</nuxt-link>
-                  <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro" class="btn btn-default my-2">Purchase now</a>
+                  <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-bs4" class="btn btn-default my-2">Purchase now</a>
                 </div>
               </div>
             </div>
@@ -233,13 +233,13 @@
               The official package contains over 21.000 icons which are looking great in combination with Argon Design System. Make sure you check all of them and use those that you like the most.
             </p>
             <div class="btn-wrapper">
-              <a href="https://demos.creative-tim.com/nuxt-argon-dashboard-pro/documentation/foundation/icons.html" class="btn btn-primary">View demo icons</a>
+              <a href="https://demos.creative-tim.com/nuxt-argon-dashboard-pro-bs4/documentation/foundation/icons.html" class="btn btn-primary">View demo icons</a>
               <a href="https://nucleoapp.com/?ref=1712" target="_blank" rel="noopener" class="btn btn-default mt-3 mt-md-0">View all icons</a>
             </div>
           </div>
         </div>
         <div class="blur--hover">
-          <a href="https://demos.creative-tim.com/nuxt-argon-dashboard-pro/documentation/foundation/icons.html">
+          <a href="https://demos.creative-tim.com/nuxt-argon-dashboard-pro-bs4/documentation/foundation/icons.html">
             <div class="icons-container blur-item mt-5">
               <!-- Center -->
               <i class="icon ni ni-diamond"></i>
@@ -272,10 +272,10 @@
             <h2 class="display-3">Do you love this awesome <span class="text-success">Dashboard for Bootstrap 4?</span></h2>
             <p class="lead">Cause if you do, it can be yours now. Hit the button below to navigate to get the free version or purchase a license for your next project. Build a new web app or give an old Bootstrap project a new look!</p>
             <div class="btn-wrapper">
-              <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard?ref=nvadp-index-page" class="btn btn-neutral mb-3 mb-sm-0" target="_blank" rel="noopener">
+              <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-bs4?ref=nvadp-index-page" class="btn btn-neutral mb-3 mb-sm-0" target="_blank" rel="noopener">
                 <span class="btn-inner--text">Get FREE version</span>
               </a>
-              <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro?ref=vadp-index-page" class="btn btn-success btn-icon mb-3 mb-sm-0">
+              <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-bs4?ref=vadp-index-page" class="btn btn-success btn-icon mb-3 mb-sm-0">
                 <span class="btn-inner--icon"><i class="ni ni-basket"></i></span>
                 <span class="btn-inner--text">Purchase now</span>
                 <span class="badge badge-md badge-pill badge-floating badge-danger border-white">$99</span>
@@ -293,7 +293,7 @@
                 </div>
                 <div class="col-md-2 col-3 my-2">
                   <el-tooltip placement="top" content="Vue.js - The progressive javascript framework">
-                    <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard?ref=nvadp-index-page" target="_blank" rel="noopener" aria-label="Vue">
+                    <a href="https://www.creative-tim.com/product/nuxt-argon-dashboard-bs4?ref=nvadp-index-page" target="_blank" rel="noopener" aria-label="Vue">
                       <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" class="img-fluid rounded-circle" alt="Vue logo">
                     </a>
                   </el-tooltip>

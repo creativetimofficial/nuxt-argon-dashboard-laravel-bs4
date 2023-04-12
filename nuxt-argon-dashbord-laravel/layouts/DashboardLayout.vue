@@ -69,7 +69,7 @@
         />
 
         <a
-          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel"
+          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel-bs4"
           target="_blank"
           class="btn btn-danger btn-icon ml-sm-3 d-md-block mb-2 mt-1 mr-3"
           ><span class="btn-inner--icon"
@@ -79,7 +79,7 @@
         >
 
         <a
-          href="https://nuxt-argon-dashboard-laravel.creative-tim.com/documentation/"
+          href="https://nuxt-argon-dashboard-laravel-bs4.creative-tim.com/documentation/"
           target="_blank"
           class="btn btn-neutral btn-icon ml-sm-3 d-md-block mb-2 mr-3"
           ><span class="btn-inner--icon"
@@ -89,7 +89,7 @@
         >
 
         <a
-          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel"
+          href="https://www.creative-tim.com/product/nuxt-argon-dashboard-laravel-bs4"
           target="_blank"
           class="btn btn-info btn-icon ml-sm-3 d-md-block mb-2 mr-3"
           ><span class="btn-inner--icon"><i class="fas fa-gift mr-2"></i></span>
@@ -97,7 +97,7 @@
         >
 
         <a
-          href="https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel"
+          href="https://github.com/creativetimofficial/nuxt-argon-dashboard-laravel-bs4"
           target="_blank"
           class="btn btn-dark btn-icon ml-sm-3 d-md-block mr-3"
           ><span class="btn-inner--icon"
